@@ -60,16 +60,43 @@ POST /predict
 
 ---
 
-## 🗄️ Database
+## 📷 Screenshots
 
-* MySQL container
-* Stores prediction history
+### 🔹 Input Form
+
+<p float="left">
+  <img src="input-form-1.png" width="45%" />
+  <img src="input-form-2.png" width="45%" />
+</p>
 
 ---
 
-## 📷 Screenshots
+### 🔹 Prediction Results
 
-(Add screenshots of your Streamlit UI here)
+<p float="left">
+  <img src="prediction-result-1.png" width="45%" />
+  <img src="prediction-result-2.png" width="45%" />
+</p>
+
+---
+
+### 🔹 Database (MySQL)
+
+<img src="database.png" width="700"/>
+
+---
+
+### 🔹 Docker Containers Running
+
+<img src="docker.png" width="700"/>
+
+---
+
+## 🗄️ Database
+
+* MySQL container used
+* Stores prediction history
+* Includes probability and prediction results
 
 ---
 
@@ -78,6 +105,7 @@ POST /predict
 * Add authentication system
 * Deploy on cloud (AWS / Render)
 * Add model explainability (SHAP)
+* Add prediction history UI in Streamlit
 
 ---
 
