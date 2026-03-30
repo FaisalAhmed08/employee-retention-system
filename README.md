@@ -65,8 +65,8 @@ POST /predict
 ### 🔹 Input Form
 
 <p float="left">
-  <img src="input-form-1.png" width="45%" />
-  <img src="input-form-2.png" width="45%" />
+  <img src="InputForm1.png" width="45%" />
+  <img src="InputForm2.png" width="45%" />
 </p>
 
 ---
@@ -74,21 +74,21 @@ POST /predict
 ### 🔹 Prediction Results
 
 <p float="left">
-  <img src="prediction-result-1.png" width="45%" />
-  <img src="prediction-result-2.png" width="45%" />
+  <img src="Prediction1.png" width="45%" />
+  <img src="Prediction2.png" width="45%" />
 </p>
 
 ---
 
 ### 🔹 Database (MySQL)
 
-<img src="database.png" width="700"/>
+<img src="Database(MySQL).png" width="700"/>
 
 ---
 
 ### 🔹 Docker Containers Running
 
-<img src="docker.png" width="700"/>
+<img src="Docker.png" width="700"/>
 
 ---
 
